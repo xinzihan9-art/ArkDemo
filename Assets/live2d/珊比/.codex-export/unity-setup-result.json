@@ -1,0 +1,16 @@
+{
+    "success": true,
+    "error": "",
+    "frames": 80,
+    "fps": 20.0,
+    "duration": 4.0,
+    "scene": "Assets/Scenes/SampleScene.unity",
+    "prefab": "Assets/live2d/珊比/珊比.prefab",
+    "position": {
+        "x": 0.7909999489784241,
+        "y": 1.2899999618530273,
+        "z": -2.0
+    },
+    "stationary": true,
+    "controller": "Assets/live2d/珊比/output/Idle/ShanbiIdle.controller"
+}

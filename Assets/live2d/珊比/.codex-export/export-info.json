@@ -1,0 +1,13 @@
+{
+  "animation": "Idle",
+  "duration": 4,
+  "fps": 20,
+  "count": 80,
+  "width": 407,
+  "height": 477,
+  "bounds": {
+    "left": -200,
+    "bottom": -17
+  },
+  "version": "3.8.99"
+}
